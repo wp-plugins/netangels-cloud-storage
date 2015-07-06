@@ -10,7 +10,15 @@ NetAngels Cloud Storage site's static files transfer plugin.
 
 == Installation ==
 
-1. Upload `netangelss3.zip` to the `/wp-content/plugins/` directory
+####From WordPress dashboard
+
+1. Visit 'Plugins > Add New'
+1. Search for 'NetAngels'
+1. Activate "NetAngels Cloud Storage" from 'Plugins' page
+
+####From WordPress.org
+
+1. Upload `netangels-cloud-storage.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Enjoy
 

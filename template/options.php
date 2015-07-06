@@ -1,5 +1,5 @@
 <link rel="stylesheet" id="netangelss3"
-      href="<?php echo plugins_url('netangelss3/css/style.css') . '?' . rand(1, 10000); ?>" type="text/css" media="all"/>
+      href="<?php echo plugins_url('netangels-cloud-storage/css/style.css') . '?' . rand(1, 10000); ?>" type="text/css" media="all"/>
 <div class="wrap">
     <script>
         var save_button_text = "<?php echo NETANGELSS3_SAVE_LOADING; ?>";

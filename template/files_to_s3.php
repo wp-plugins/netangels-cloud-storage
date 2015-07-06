@@ -1,5 +1,5 @@
 <link rel="stylesheet" id="netangelss3"
-      href="<?php echo plugins_url('netangelss3/css/style.css') . '?' . rand(1, 10000); ?>" type="text/css"
+      href="<?php echo plugins_url('netangels-cloud-storage/css/style.css') . '?' . rand(1, 10000); ?>" type="text/css"
       media="all"/>
 <div class="wrap">
     <h2><?php echo NETANGELSS3_MESSAGES_MANUAL_MOVE_OR_COPY_FILES_TO; ?></h2>
@@ -67,7 +67,7 @@
             );
         }
     </script>
-    <script src="<?php echo plugins_url('netangelss3/js/functions.js'); ?>" type="text/javascript"></script>
+    <script src="<?php echo plugins_url('netangels-cloud-storage/js/functions.js'); ?>" type="text/javascript"></script>
     <p class="submit"><input type="submit" name="submit" id="submit" class="button button-primary send_to_cloud itsbold"
                              value="<?php echo NETANGELSS3_MESSAGES_MANUAL_MOVE_OR_COPY_SEND_TO_CLOUD; ?>">
         <?php if (!NETANGELSS3_MOVE_ONLY) { ?>

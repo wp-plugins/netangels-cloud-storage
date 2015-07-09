@@ -79,7 +79,7 @@ define(NETANGELSS3_MESSAGES_NO_FILES_TO_UPLOAD_TO_CLOUD, 'Нет файлов д
 define(NETANGELSS3_MESSAGES_NO_FILES_IN_CLOUD, 'Нет файлов в NetAngels s3');
 
 /* OPtion page */
-define(NETANGELSS3_MESSAGES_KEY_ID, 'Key ID');
+define(NETANGELSS3_MESSAGES_KEY_ID, 'Access Key');
 define(NETANGELSS3_MESSAGES_SECRET_KEY, 'Secret Key');
 
 define(NETANGELSS3_LINK_GET_KEYS, 'https://panel.netangels.ru/s3/account/');
